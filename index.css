@@ -1,0 +1,24 @@
+body {
+    background-image: url("images/black-1.png");
+    color: #FFFFFF;
+    font-family: verdana;
+}
+body h1 {
+    font-family: Georgia;
+    font-size: 200%;
+    font-style: italic;
+    text-align: center;
+}
+.content {
+    margin: 3em auto;
+    text-align: center;
+    width: 960px;
+}
+.content a {
+    color: #AAAAAA;
+    text-decoration: none;
+}
+.content a:hover {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
